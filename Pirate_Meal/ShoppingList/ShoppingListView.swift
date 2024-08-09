@@ -22,7 +22,7 @@ struct ShoppingListView: View {
                         vm.clearAllChecked()
                     }, label: {
                         Text("Wagen aufräumen")
-                        
+///Style in here changed
                     }).buttonStyle(.borderedProminent)
                         .padding(.leading)
                         .padding(.top)
