@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2B3B3F782BE82D54007B974D /* ApiKeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B3B3F772BE82D54007B974D /* ApiKeys.swift */; };
+		2BF0C7922C7CD5E800BD3BA8 /* PdfView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BF0C7912C7CD5E800BD3BA8 /* PdfView.swift */; };
 		D57363F82B835B870063EDFC /* Pirate_MealApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D57363F72B835B870063EDFC /* Pirate_MealApp.swift */; };
 		D57363FC2B835B880063EDFC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D57363FB2B835B880063EDFC /* Assets.xcassets */; };
 		D57363FF2B835B880063EDFC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D57363FE2B835B880063EDFC /* Preview Assets.xcassets */; };
@@ -34,6 +35,7 @@
 
 /* Begin PBXFileReference section */
 		2B3B3F772BE82D54007B974D /* ApiKeys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiKeys.swift; sourceTree = "<group>"; };
+		2BF0C7912C7CD5E800BD3BA8 /* PdfView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PdfView.swift; sourceTree = "<group>"; };
 		D57363F42B835B870063EDFC /* Pirate_Meal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pirate_Meal.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D57363F72B835B870063EDFC /* Pirate_MealApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pirate_MealApp.swift; sourceTree = "<group>"; };
 		D57363FB2B835B880063EDFC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 				D57363F72B835B870063EDFC /* Pirate_MealApp.swift */,
 				D57363FB2B835B880063EDFC /* Assets.xcassets */,
 				D57363FD2B835B880063EDFC /* Preview Content */,
+				2BF0C7912C7CD5E800BD3BA8 /* PdfView.swift */,
 			);
 			path = Pirate_Meal;
 			sourceTree = "<group>";
@@ -276,6 +279,7 @@
 			files = (
 				D573640B2B83714F0063EDFC /* BrowseRecipeViewModel.swift in Sources */,
 				D5A85A422B84A5D3001CEE78 /* ShoppingListItem.swift in Sources */,
+				2BF0C7922C7CD5E800BD3BA8 /* PdfView.swift in Sources */,
 				D573641B2B83790F0063EDFC /* MainScreenView.swift in Sources */,
 				D5A85A452B84A950001CEE78 /* IngredientRow.swift in Sources */,
 				D586780C2B85FD1F00E5E1FB /* PreviewShoppingListRepository.swift in Sources */,
